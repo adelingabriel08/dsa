@@ -9,7 +9,7 @@ void straight_insertion(int a[],int n)
  		{
 			 a[j-1]=a[j]; j++; /*3.2.1.e*/
 		 }
- 			a[j-1]=a[n]; /*insertion*/
+ 			 a[j-1]=a[n]; /*insertion*/
 	}
 }
 
